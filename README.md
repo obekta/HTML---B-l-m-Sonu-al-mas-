@@ -1,1 +1,3 @@
-# HTML---B-l-m-Sonu-al-mas-
+HTML - Bölüm Sonu Çalışması
+
+www.patika.dev
